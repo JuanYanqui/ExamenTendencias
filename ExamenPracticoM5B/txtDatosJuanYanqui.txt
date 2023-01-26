@@ -1,0 +1,10 @@
+Inserts:
+INSERT INTO `listareproduccion` (`id_empleado`, `apellido`, `dias_trabajo`, `direccion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES
+(2, 'Juan', 20, 'SanMiguel', '2023-05-16 19:00:00', 'Yanqui', 'el valle', 306, '4037424'),
+(3, 'Pedro', 30, 'SanMiguel', '2023-05-16 19:00:00', 'Alvarez', 'el valle', 472.5, '4037424'),
+(4, 'Adrian', 31, 'SanMiguel', '2023-05-16 19:00:00', 'Guerrero', 'el valle', 488.25, '4037424'),
+(5, 'Paolo', 25, 'SanMiguel', '2023-05-16 19:00:00', 'Farez', 'el valle', 382.5, '4037424'),
+(6, 'Daniela', 25, 'SanMiguel', '2023-05-16 19:00:00', 'Alavrado', 'el valle', 382.5, '4037424');
+
+Url:
+https://drive.google.com/file/d/1tu04C5IefnrMGYLtu_ZPnQp-nCXNeBkU/view?usp=sharing
